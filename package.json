@@ -1,0 +1,18 @@
+{
+  "name": "reactjssolution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html",
+    "build": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ag-grid-react": "^29.0.0",
+    "react-bootstrap": "^2.7.0",
+    "react-router-dom": "^6.8.0"
+  }
+}
